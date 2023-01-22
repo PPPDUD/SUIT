@@ -1,4 +1,4 @@
-As of Janaury 15th, 2023, Mojavesoft presents these rules to anyone who's copy was obtained with this license:
+As of Janaury 22nd, 2023, Mojavesoft presents these rules to anyone who's copy was obtained with this license:
 
 1. No code leaking. This means that you agree to not publicly share anything based off of anyone's source code leak of SUIT. Code leaks are defined in this context as either due to an offical release of the code by mistake, or by manually decompiling the files provided.
 
@@ -13,3 +13,7 @@ As of Janaury 15th, 2023, Mojavesoft presents these rules to anyone who's copy w
 6. Mojavesoft can determine what constitues as a violation to this agreement.
 
 7. After violating this agreement, we may choose to do any number of legal things to you at any given time.
+
+8. Code that does something similar to SUIT or is clearly designed to be an alternative to SUIT is strictly prohibited.
+
+The last rule was inspired by mybearworld on Scratch.
